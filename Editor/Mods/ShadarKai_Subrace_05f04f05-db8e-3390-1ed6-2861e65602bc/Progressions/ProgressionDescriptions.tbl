@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="bfa22a59-fd65-4e35-ae0f-ac960c3b5fd2">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="58ef11ef-44f7-4759-944c-9dc18f1f3468" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h878d9809g5cd8g32e5ga4e8g58b03ac24308" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9333cbc0gb645g2f17g76aag3f828a29c91f" version="1" />
+        <field name="ExactMatch" type="FixedStringTableFieldDefinition" value="Ability(2,Dexterity)" />
+        <field name="Type" type="FixedStringTableFieldDefinition" value="Ability" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b2338e7a-1b2f-4314-8bab-889af8fb6136" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1ab9fb72g50e4g1804gfa7dg744e62ce9ca4" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h38ada7ffg847cg4022g0dc2gc1181502791d" version="1" />
+        <field name="Type" type="FixedStringTableFieldDefinition" value="ActionResource" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Unlock TrancePoints" />
+        <field name="ExactMatch" type="FixedStringTableFieldDefinition" value="ActionResource(TrancePoint,2,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c776f516-307b-4262-8d15-04e437fcf977" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf0a60b00gf3e4g8ac3g3069g441aaf47236f" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9b48211agab29gea08g257bgf81b9ff6a8bb" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Unlock RavenPoints" />
+        <field name="Type" type="FixedStringTableFieldDefinition" value="ActionResource" />
+        <field name="ExactMatch" type="FixedStringTableFieldDefinition" value="ActionResource(RavenPoint,2,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="654db218-c880-40ea-9593-798ea0f99b80" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h44e33301ge1b2g992fg56a6g86bef8dd03a0" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h18e57cc1g0f0cg80a4g6a3dgc9dc4dcc91ae" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="New Raven Point" />
+        <field name="Type" type="FixedStringTableFieldDefinition" value="ActionResource" />
+        <field name="Hidden" type="BoolTableFieldDefinition" value="False" />
+        <field name="ExactMatch" type="FixedStringTableFieldDefinition" value="ActionResource(RavenPoint,1,0)" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

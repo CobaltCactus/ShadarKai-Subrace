@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h9333cbc0gb645g2f17g76aag3f828a29c91f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h878d9809g5cd8g32e5ga4e8g58b03ac24308" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="Ability(2,Dexterity)"/>
+                    <attribute id="Type" type="FixedString" value="Ability"/>
+                    <attribute id="UUID" type="guid" value="58ef11ef-44f7-4759-944c-9dc18f1f3468"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h38ada7ffg847cg4022g0dc2gc1181502791d" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1ab9fb72g50e4g1804gfa7dg744e62ce9ca4" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(TrancePoint,2,0)"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="b2338e7a-1b2f-4314-8bab-889af8fb6136"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h9b48211agab29gea08g257bgf81b9ff6a8bb" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf0a60b00gf3e4g8ac3g3069g441aaf47236f" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(RavenPoint,2,0)"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="c776f516-307b-4262-8d15-04e437fcf977"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h18e57cc1g0f0cg80a4g6a3dgc9dc4dcc91ae" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h44e33301ge1b2g992fg56a6g86bef8dd03a0" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(RavenPoint,1,0)"/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="654db218-c880-40ea-9593-798ea0f99b80"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
