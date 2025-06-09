@@ -9,9 +9,9 @@
   <content contentuid="h81c5d35bg52f2g5619g7610g05e2543a2b3c" version="2">Netherese</content>
   <content contentuid="h6e33a136g2861g3e88g7c0dgf65dcf49fecb" version="4">Netherese</content>
   <content contentuid="hcfe4c55bg5553gd8c6gb3b1gba7bdd93a707" version="6">Shadar-Kai</content>
-  <content contentuid="h330380a8g83b0g9099gac2dg01df1b2d28a2" version="7">Shadar-Kai</content>
-  <content contentuid="h05c36085g10c0g60bfgc85eg4aac975112c2" version="6">Shadar-Kai</content>
-  <content contentuid="hda5e6439g615cg3741g2e0eg1421ae5b3d7a" version="9">Shadar-Kai</content>
+  <content contentuid="h330380a8g83b0g9099gac2dg01df1b2d28a2" version="8">Shadar-Kai</content>
+  <content contentuid="h05c36085g10c0g60bfgc85eg4aac975112c2" version="7">Shadar-Kai</content>
+  <content contentuid="hda5e6439g615cg3741g2e0eg1421ae5b3d7a" version="10">Shadar-Kai</content>
   <content contentuid="h93f964d4g897eg9861gbf58g97010aeb0fe5" version="1">Necrotic Resistance</content>
   <content contentuid="h9ced0e94g814dg2dd5g7549gfb004aa8c3fb" version="1">You have resistance to Fire damage, taking only half damage from it.</content>
   <content contentuid="h9e3ca00ag8623g712egfeb0g11b40f7408bf" version="1">Born in the Shadows</content>
@@ -243,4 +243,10 @@
   <content contentuid="h251bc094gdf8cgf36ag230eg948beb9455cb" version="1">This dye smells vaguely of mint and lime. </content>
   <content contentuid="hacd1a4d1g175bg7904gc76ag8e3ec5135660" version="1">Invulnerability</content>
   <content contentuid="hb8996542g2f5agbe6bgc2dagf6a313e0d6b5" version="1">&lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to all damage.</content>
+  <content contentuid="he2d4dac7g411egb1c8g7eefg2a5b1468e6f3" version="1">Gale</content>
+  <content contentuid="h4818ef75gd66cg1646g66b6g4da04e6d29ef" version="1">Gale is a wizard prodigy whose love for a goddess made him attempt a dread feat no mortal should. Blighted by the forbidden magic of ancient Netheril, Gale strives to undo the corruption that is overtaking him and win back his goddess' favour before he becomes a destroyer of worlds.</content>
+  <content contentuid="h9ffb45b6g3548g20b4g6de2gad17f2761ab9" version="1">Wyll</content>
+  <content contentuid="h6ab012d9g2f51g9284g21a8g3f518a7ba8a8" version="1">Noble by birth, Wyll made his name as the heroic 'Blade of Frontiers'. But to become a living legend, he struck a bargain with a devil, a bargain from which he longs to break free before it consumes his soul for good.</content>
+  <content contentuid="h9498680ege0e1g2cf8g966dg1941e628ddb2" version="1">Maddala Deadeye</content>
+  <content contentuid="h50a432a2gbe01g9bf4gfecdg4b9b3a255905" version="1">Maddala's blindness was cured by another True Soul passing through her village - so they could watch it being burnt to the ground around them. Such was the price of refusing the Absolute. </content>
 </contentList>
